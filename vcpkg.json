@@ -1,0 +1,14 @@
+{
+    "name": "minsframeback",
+    "version": "0.0.1",
+    "dependencies": [
+        "drogon",
+        "fmt",
+        "spdlog",
+        "nlohmann-json",
+        "openssl",
+        "zlib",
+        "libpq",
+        "libpqxx"
+    ]
+}
