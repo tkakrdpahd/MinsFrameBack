@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/L87LPtTt0=",
+  "success": true,
+  "projectFilePath": "/Users/mdoo/Documents/GitHub/MinsFrameBack/my-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/mdoo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/mdoo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
